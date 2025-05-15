@@ -30,7 +30,9 @@ As part of my independent study, I built a beginner-friendly machine learning pr
 #### Sentiment Analysis Project - [GitHub Repo](https://github.com/TokSeKa-uajy/Proyek-Analisis-Sentimen.git)  
 This project involves building a sentiment analysis model using self-scraped data (≥3,000 samples) from platforms like PlayStore and social media. It includes feature extraction, data labeling, and machine learning classification, with a testing accuracy benchmark of at least 85%.
 #### Image Classification Project - [GitHub Repo](https://github.com/TokSeKa-uajy/Proyek-Klasifikasi-Gambar.git)  
-This project focuses on classifying rice grain types using a custom CNN model built with TensorFlow and Keras. It involves training on over 1,000 images from a Kaggle dataset, with dataset splits, accuracy tracking, and exporting models in SavedModel, TF-Lite, and TensorFlow.js formats.
+This project focuses on classifying rice grain types using a custom CNN model built with TensorFlow and Keras. It involves training on over 1,000 images from a Kaggle dataset, with dataset splits, accuracy tracking, and exporting models in SavedModel, TF-Lite, and TensorFlow.js formats. 
+#### Atma Gym (Website - React+Laravel) - [Backend Repo](https://github.com/TokSeKa-uajy/PW_B_4_Laravel.git) - [Frontend Repo](https://github.com/TokSeKa-uajy/PW_B_4_React.git) 
+Collaboratively developed a gym management website as a two-person team, using React.js for the frontend and Laravel for the backend. The system communicates via RESTful APIs, enabling features such as user registration, class scheduling, and membership management.
 
 ## Get in Touch
 - Email: tokseka.id@gmail.com
