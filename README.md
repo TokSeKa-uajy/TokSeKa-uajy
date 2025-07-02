@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @TokSeKa-uajy  
 
-- 👀 I’m interested in **software development, entrepreneurship, and self-improvement.**  
-- 🌱 I’m currently learning **Machine Learning, Flutter, backend development, and business strategies for monetizing projects.**  
-- 💞️ I’m looking to collaborate on **exciting projects that solve real-world problems, especially in mobile and web development.**  
+- 👀 I’m interested in **automation, software development, entrepreneurship, and self-improvement.**  
+- 🌱 I’m currently learning **Machine Learning, Fullstack development, Flutter, and business strategies for monetizing projects.**  
+- 💞️ I’m looking to collaborate on **exciting projects that solve real-world problems, especially in machine learning and web development.**  
 - 📫 How to reach me **https://www.linkedin.com/in/tok-se-ka/**  
 - 😄 Pronouns: **He/Him**  
 
@@ -19,20 +19,33 @@
 - Currently exploring Next.js (App Router & React Server Components), Laravel 10, React Native Expo, and applied AI.
 
 ## Project Catalog
+
+#### Game Recommendation System - [GitHub Repo](https://github.com/TokSeKa-uajy/sistem-rekomendasi.git)
+A content-based recommendation system for Steam games using TF-IDF and cosine similarity on genres/tags. Integrated and cleaned a large-scale dataset (27,000+ games), achieving perfect Precision@5. Explains recommendations for transparency and supports both popular and niche titles.
+
+#### Customer Segmentation & Classification - [GitHub Repo](https://github.com/TokSeKa-uajy/Proyek-Predictive-Analytics.git)
+End-to-end pipeline for segmenting and classifying retail customers using K-Means and multiple classifiers (KNN, Decision Tree, Random Forest, SVM, Naive Bayes). Achieved perfect accuracy on test data. Demonstrates data preprocessing, clustering, and multi-class classification for targeted marketing.
+
+#### Sentiment Analysis of Play Store Reviews - [GitHub Repo](https://github.com/TokSeKa-uajy/Proyek-Analisis-Sentimen.git)
+Scraped and analyzed Indonesian user reviews for YouTube Kids app. Built sentiment classifiers (LogReg, Decision Tree, Random Forest, Naive Bayes) with >90% accuracy. Includes tailored preprocessing for Indonesian text and visualizes sentiment trends.
+
+#### Rice Image Classification - [GitHub Repo](https://github.com/TokSeKa-uajy/Proyek-Klasifikasi-Gambar.git)
+Developed a CNN model in TensorFlow/Keras to classify 75,000+ rice grain images (5 classes) with >99% validation accuracy. Exported models to SavedModel, TF.js, and TF Lite for deployment on web/mobile/edge devices.
+
+#### Bike Sharing Data Analysis Dashboard - [GitHub Repo](https://github.com/TokSeKa-uajy/Proyek-Analisis-Data.git) | [Live Demo](https://tokseka-uajy-proyekanalisisdata-dashboard-ywuaw8.streamlit.app/)
+Built an interactive Streamlit dashboard to analyze 17,000+ bike rental records. Visualizes seasonal, weather, and holiday trends, providing actionable insights for business and operations.
+
+#### ETL Pipeline Project - [GitHub Repo](https://github.com/TokSeKa-uajy/ETL-Pipeline.git)
+Automated ETL pipeline in Python for scraping, cleaning, and loading e-commerce product data into PostgreSQL, CSV, and Google Sheets. Modular code with unit tests and multi-destination support.
+
 #### Valentine Web App - [Live Demo](https://gakbisanolak.netlify.app/)
-I built a fun and interactive web-based service that allows users to create personalized Valentine’s webpages with a unique payment model.
+A fun web service for creating personalized Valentine’s webpages with a unique payment model. Built with HTML/CSS/JS, Supabase, and Midtrans.
+
 #### Web-Based Clicker Game - [Live Demo](https://gebukdontol.netlify.app/) 
-GebukDontol is a web-based clicker game inspired by Popcat, where users can repeatedly tap the screen to collect points and compete on a global leaderboard.
-#### Data Analysis with Python - [GitHub Repo](https://github.com/TokSeKa-uajy/Proyek-Analisis-Data.git) | [Live Demo](https://tokseka-uajy-proyekanalisisdata-dashboard-ywuaw8.streamlit.app/)
-As part of my independent study, I built a data analysis dashboard using Python and Streamlit to visualize and explore datasets through interactive charts and statistical summaries.
-#### Intro to Machine Learning - [GitHub Repo](https://github.com/TokSeKa-uajy/Belajar-Machine-Learning-untuk-Pemula.git)
-As part of my independent study, I built a beginner-friendly machine learning project that covers both clustering and classification tasks using Python. The project includes exploratory data analysis, preprocessing, K-Means clustering, Decision Tree classification, and model evaluation — all implemented and visualized in Google Colab Notebook using scikit-learn, pandas, and matplotlib.
-#### Sentiment Analysis Project - [GitHub Repo](https://github.com/TokSeKa-uajy/Proyek-Analisis-Sentimen.git)  
-This project involves building a sentiment analysis model using self-scraped data (≥3,000 samples) from platforms like PlayStore and social media. It includes feature extraction, data labeling, and machine learning classification, with a testing accuracy benchmark of at least 85%.
-#### Image Classification Project - [GitHub Repo](https://github.com/TokSeKa-uajy/Proyek-Klasifikasi-Gambar.git)  
-This project focuses on classifying rice grain types using a custom CNN model built with TensorFlow and Keras. It involves training on over 1,000 images from a Kaggle dataset, with dataset splits, accuracy tracking, and exporting models in SavedModel, TF-Lite, and TensorFlow.js formats. 
+A Popcat-inspired clicker game with global leaderboard. Built with web technologies and real-time backend.
+
 #### Atma Gym (Website - React+Laravel) - [Backend Repo](https://github.com/TokSeKa-uajy/PW_B_4_Laravel.git) - [Frontend Repo](https://github.com/TokSeKa-uajy/PW_B_4_React.git) 
-Collaboratively developed a gym management website as a two-person team, using React.js for the frontend and Laravel for the backend. The system communicates via RESTful APIs, enabling features such as user registration, class scheduling, and membership management.
+Collaborative gym management system using React.js frontend and Laravel backend. Features user registration, class scheduling, and membership management via RESTful APIs.
 
 ## Get in Touch
 - Email: tokseka.id@gmail.com
