@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @TokSeKa-uajy  
+# 👋 Hi, I’m Tok Se Ka  
 
 - 👀 I’m interested in **automation, software development, entrepreneurship, and self-improvement.**  
 - 🌱 I’m currently learning **Machine Learning, Fullstack development, Flutter, and business strategies for monetizing projects.**  
